@@ -1,0 +1,12 @@
+[ 2025-08-28 22:49:05,445] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-08-28 22:49:05,448] 97 werkzeug - INFO - * Debugger PIN: 638-991-725
+[ 2025-08-28 22:49:07,275] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:49:07] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:49:20,251] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:49:20] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:49:26,149] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:49:26] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:49:30,044] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:49:30] "GET /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:49:33,612] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:49:33] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:51:20,605] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:51:20] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:51:53,242] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:51:53] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:52:54,649] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:52:54] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:53:11,842] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:53:11] "POST /predictions HTTP/1.1" 200 -
+[ 2025-08-28 22:54:15,352] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:54:15] "POST /predictions HTTP/1.1" 200 -
