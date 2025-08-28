@@ -1,0 +1,3 @@
+[ 2025-08-28 22:58:31,377] 97 werkzeug - WARNING - * Debugger is active!
+[ 2025-08-28 22:58:31,380] 97 werkzeug - INFO - * Debugger PIN: 638-991-725
+[ 2025-08-28 22:58:38,179] 97 werkzeug - INFO -127.0.0.1 - - [28/Aug/2025 22:58:38] "POST /predictions HTTP/1.1" 200 -
