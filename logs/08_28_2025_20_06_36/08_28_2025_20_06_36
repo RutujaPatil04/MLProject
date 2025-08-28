@@ -1,0 +1,10 @@
+[ 2025-08-28 20:06:40,244] 32 root - INFO -Enter the data ingestion
+[ 2025-08-28 20:06:40,249] 35 root - INFO -Read dataset from dataframe
+[ 2025-08-28 20:06:40,264] 43 root - INFO -Ingestion of data is completed
+[ 2025-08-28 20:06:40,298] 63 root - INFO -Reading testdata completed
+[ 2025-08-28 20:06:40,298] 38 root - INFO -categorical columns standard scaling completed: ['writing_score', 'reading_score']
+[ 2025-08-28 20:06:40,298] 46 root - INFO -categorical columns encoding completed: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-08-28 20:06:40,300] 76 root - INFO -applying preprocessing completed
+[ 2025-08-28 20:06:40,380] 84 root - INFO -saved preprocessing obj completed
+[ 2025-08-28 20:06:40,388] 33 root - INFO -splitting train & test data
+[ 2025-08-28 20:06:44,609] 59 root - INFO -best model found

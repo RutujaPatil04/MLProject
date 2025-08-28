@@ -1,0 +1,8 @@
+[ 2025-08-28 19:37:40,730] 32 root - INFO -Enter the data ingestion
+[ 2025-08-28 19:37:40,771] 35 root - INFO -Read dataset from dataframe
+[ 2025-08-28 19:37:40,802] 43 root - INFO -Ingestion of data is completed
+[ 2025-08-28 19:37:40,831] 63 root - INFO -Reading testdata completed
+[ 2025-08-28 19:37:40,831] 38 root - INFO -categorical columns standard scaling completed: ['writing_score', 'reading_score']
+[ 2025-08-28 19:37:40,832] 46 root - INFO -categorical columns encoding completed: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-08-28 19:37:40,839] 76 root - INFO -applying preprocessing completed
+[ 2025-08-28 19:37:40,881] 84 root - INFO -saved preprocessing obj completed
